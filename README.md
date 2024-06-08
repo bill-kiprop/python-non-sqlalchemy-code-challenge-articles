@@ -1,3 +1,7 @@
+## Test Gif
+![video example](public/Screencast%20from%2008-06-24%2009_41_10.gif)
+
+
 # Phase 3 Code Challenge: Articles - without SQLAlchemy (Updated)
 
 In this code challenge, you will be working with a Magazine domain.
